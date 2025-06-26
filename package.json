@@ -1,0 +1,21 @@
+{
+  "name": "my-test-repository",
+  "version": "1.0.0",
+  "description": "Hello, World",
+  "homepage": "https://github.com/Jackson-JS88/my-test-repository#readme",
+  "bugs": {
+    "url": "https://github.com/Jackson-JS88/my-test-repository/issues",
+    "email": "evgeniyklimov1988@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jackson-JS88/my-test-repository.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
